@@ -1,6 +1,6 @@
 Clumsy Bird
 ===========
-
+I am God
 A MelonJS made "Flappy Bird" clone.
 
 ![](http://i.imgur.com/Slbvt65.png)
